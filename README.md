@@ -39,4 +39,4 @@ If they forget some point and need to revise it they can refer these timestamps 
 Also if they need to revise the class they can just focus on the points they need as they need not watch the whole class again as they already did it.
 
 For all.
-If one needs to revisit some concept they can using these timestamps.
+If one needs to revisit some concept they can using these timestamps in future.
