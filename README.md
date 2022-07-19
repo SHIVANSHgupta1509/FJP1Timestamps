@@ -25,3 +25,4 @@ And 1st question ka name kya hai vo ek dum end me likha hai.
 Aur jo bhi short forms hai vo is image me .
 
 
+![Conventions](https://user-images.githubusercontent.com/77270883/179738875-bf1e7e06-8ede-4cdd-8fb3-168d65c3c784.jpeg)
